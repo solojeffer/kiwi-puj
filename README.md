@@ -1,2 +1,4 @@
-# kiwi-puj
-Repositorio creado para contener el proyecto de grado titulado sistema de detección de esquinas
+# Sistema de detección de esquinas para robots semiautónomos.
+
+Repositorio creado para contener el proyecto de grado, y relacionarse con la herramienta de Githbub y git.
+
